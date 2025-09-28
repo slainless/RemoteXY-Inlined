@@ -259,6 +259,6 @@ class CRemoteXYAesCbcWriter {
 
 
 
-CRemoteXYAesCbc RemoteXYAesCbc;
+inline CRemoteXYAesCbc RemoteXYAesCbc;
 
 #endif // RemoteXYAes_h  
